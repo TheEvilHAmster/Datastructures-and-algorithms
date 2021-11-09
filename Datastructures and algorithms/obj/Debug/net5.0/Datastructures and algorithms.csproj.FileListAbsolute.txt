@@ -1,0 +1,16 @@
+C:\Users\william.sundin\RiderProjects\Datastructures and algorithms\Datastructures and algorithms\bin\Debug\net5.0\Datastructures and algorithms.exe
+C:\Users\william.sundin\RiderProjects\Datastructures and algorithms\Datastructures and algorithms\bin\Debug\net5.0\Datastructures and algorithms.deps.json
+C:\Users\william.sundin\RiderProjects\Datastructures and algorithms\Datastructures and algorithms\bin\Debug\net5.0\Datastructures and algorithms.runtimeconfig.json
+C:\Users\william.sundin\RiderProjects\Datastructures and algorithms\Datastructures and algorithms\bin\Debug\net5.0\Datastructures and algorithms.runtimeconfig.dev.json
+C:\Users\william.sundin\RiderProjects\Datastructures and algorithms\Datastructures and algorithms\bin\Debug\net5.0\Datastructures and algorithms.dll
+C:\Users\william.sundin\RiderProjects\Datastructures and algorithms\Datastructures and algorithms\bin\Debug\net5.0\ref\Datastructures and algorithms.dll
+C:\Users\william.sundin\RiderProjects\Datastructures and algorithms\Datastructures and algorithms\bin\Debug\net5.0\Datastructures and algorithms.pdb
+C:\Users\william.sundin\RiderProjects\Datastructures and algorithms\Datastructures and algorithms\obj\Debug\net5.0\Datastructures and algorithms.csproj.AssemblyReference.cache
+C:\Users\william.sundin\RiderProjects\Datastructures and algorithms\Datastructures and algorithms\obj\Debug\net5.0\Datastructures and algorithms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\william.sundin\RiderProjects\Datastructures and algorithms\Datastructures and algorithms\obj\Debug\net5.0\Datastructures and algorithms.AssemblyInfoInputs.cache
+C:\Users\william.sundin\RiderProjects\Datastructures and algorithms\Datastructures and algorithms\obj\Debug\net5.0\Datastructures and algorithms.AssemblyInfo.cs
+C:\Users\william.sundin\RiderProjects\Datastructures and algorithms\Datastructures and algorithms\obj\Debug\net5.0\Datastructures and algorithms.csproj.CoreCompileInputs.cache
+C:\Users\william.sundin\RiderProjects\Datastructures and algorithms\Datastructures and algorithms\obj\Debug\net5.0\Datastructures and algorithms.dll
+C:\Users\william.sundin\RiderProjects\Datastructures and algorithms\Datastructures and algorithms\obj\Debug\net5.0\ref\Datastructures and algorithms.dll
+C:\Users\william.sundin\RiderProjects\Datastructures and algorithms\Datastructures and algorithms\obj\Debug\net5.0\Datastructures and algorithms.pdb
+C:\Users\william.sundin\RiderProjects\Datastructures and algorithms\Datastructures and algorithms\obj\Debug\net5.0\Datastructures and algorithms.genruntimeconfig.cache
